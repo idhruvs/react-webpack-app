@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './FirstComponent.scss';
+import './FirstComponent.less';
 
 export class FirstComponent extends Component {
     render() {
